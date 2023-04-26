@@ -12,7 +12,7 @@ Content-Type: application/json
 http://localhost:3000/movies/78
 ###
 
-put http://localhost:3000/movies/48/
+put http://localhost:3000/movies/50/
 Content-Type: application/json
 
 {
@@ -20,4 +20,9 @@ Content-Type: application/json
   "movieName": "Thor",
   "leadActor": "Christopher Hemsworth"
 }
-
+###
+delete http://localhost:3000/movies/58/
+###
+http://localhost:3000/directors/
+###
+http://localhost:3000//directors/1/movies/
