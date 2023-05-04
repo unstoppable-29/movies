@@ -25,4 +25,4 @@ delete http://localhost:3000/movies/58/
 ###
 http://localhost:3000/directors/
 ###
-http://localhost:3000//directors/1/movies/
+http://localhost:3000/directors/3/movies/
